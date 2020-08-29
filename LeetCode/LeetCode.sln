@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuffleTheArray", "SuffleTheArray\SuffleTheArray.csproj", "{6EBF29B2-6DB8-4F3E-96AF-2A3A97255488}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{3C6F8CD2-6475-4BF5-B1DF-B80C7088FEAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{3C6F8CD2-6475-4BF5-B1DF-B80C7088FEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KidsWithTheGreatestNumberOfCandies", "KidsWithTheGreatestNumberOfCandies\KidsWithTheGreatestNumberOfCandies.csproj", "{771EAE20-4A86-4B64-9FDC-018E955368C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3C6F8CD2-6475-4BF5-B1DF-B80C7088FEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C6F8CD2-6475-4BF5-B1DF-B80C7088FEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C6F8CD2-6475-4BF5-B1DF-B80C7088FEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771EAE20-4A86-4B64-9FDC-018E955368C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771EAE20-4A86-4B64-9FDC-018E955368C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771EAE20-4A86-4B64-9FDC-018E955368C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771EAE20-4A86-4B64-9FDC-018E955368C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
