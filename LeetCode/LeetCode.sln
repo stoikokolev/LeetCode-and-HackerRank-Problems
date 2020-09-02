@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KidsWithTheGreatestNumberOfCandies", "KidsWithTheGreatestNumberOfCandies\KidsWithTheGreatestNumberOfCandies.csproj", "{771EAE20-4A86-4B64-9FDC-018E955368C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangingCoins", "ArrangingCoins\ArrangingCoins.csproj", "{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrangingCoins", "ArrangingCoins\ArrangingCoins.csproj", "{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{9D6E1B8D-C73D-444C-A431-A8771E92A270}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
