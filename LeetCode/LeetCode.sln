@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KidsWithTheGreatestNumberOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrangingCoins", "ArrangingCoins\ArrangingCoins.csproj", "{D4DDA74A-6CCB-45A4-BF21-6272AB28023E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{9D6E1B8D-C73D-444C-A431-A8771E92A270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{9D6E1B8D-C73D-444C-A431-A8771E92A270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfStudentsDoingHomeworkAtAGivenTime", "NumberOfStudentsDoingHomeworkAtAGivenTime\NumberOfStudentsDoingHomeworkAtAGivenTime.csproj", "{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D6E1B8D-C73D-444C-A431-A8771E92A270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
