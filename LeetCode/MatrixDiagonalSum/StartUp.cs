@@ -3,7 +3,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace MatrixDiagonalSum
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
