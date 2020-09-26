@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayByParity", "SortAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfStudentsDoingHomeworkAtAGivenTime", "NumberOfStudentsDoingHomeworkAtAGivenTime\NumberOfStudentsDoingHomeworkAtAGivenTime.csproj", "{CB7DB349-DD3C-4C18-BAC6-417B6C4A2D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountGoodTriplets", "CountGoodTriplets\CountGoodTriplets.csproj", "{938B6CDF-8D51-4568-8A62-D935DC93A084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountGoodTriplets", "CountGoodTriplets\CountGoodTriplets.csproj", "{938B6CDF-8D51-4568-8A62-D935DC93A084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{938B6CDF-8D51-4568-8A62-D935DC93A084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938B6CDF-8D51-4568-8A62-D935DC93A084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938B6CDF-8D51-4568-8A62-D935DC93A084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
