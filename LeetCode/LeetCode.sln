@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfStudentsDoingHomewo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountGoodTriplets", "CountGoodTriplets\CountGoodTriplets.csproj", "{938B6CDF-8D51-4568-8A62-D935DC93A084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveTraders", "ActiveTraders\ActiveTraders.csproj", "{E3A17512-7D70-47FD-86C0-A7A87A949856}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A17512-7D70-47FD-86C0-A7A87A949856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A17512-7D70-47FD-86C0-A7A87A949856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A17512-7D70-47FD-86C0-A7A87A949856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A17512-7D70-47FD-86C0-A7A87A949856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
