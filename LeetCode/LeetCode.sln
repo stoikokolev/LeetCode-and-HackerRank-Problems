@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountGoodTriplets", "CountG
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{1DD8548D-C7B4-42C6-8639-2EEFD3AA1EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveTraders", "ActiveTraders\ActiveTraders.csproj", "{E3A17512-7D70-47FD-86C0-A7A87A949856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActiveTraders", "ActiveTraders\ActiveTraders.csproj", "{E3A17512-7D70-47FD-86C0-A7A87A949856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnexpectedDemant", "UnexpectedDemant\UnexpectedDemant.csproj", "{8B3F5103-A35D-497F-BA3C-8872D126FF1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnexpectedDemant", "UnexpectedDemant\UnexpectedDemant.csproj", "{8B3F5103-A35D-497F-BA3C-8872D126FF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{E9E9C94B-4019-41CA-ABC0-855C4B138C72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{8B3F5103-A35D-497F-BA3C-8872D126FF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3F5103-A35D-497F-BA3C-8872D126FF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3F5103-A35D-497F-BA3C-8872D126FF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E9C94B-4019-41CA-ABC0-855C4B138C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E9C94B-4019-41CA-ABC0-855C4B138C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E9C94B-4019-41CA-ABC0-855C4B138C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E9C94B-4019-41CA-ABC0-855C4B138C72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
