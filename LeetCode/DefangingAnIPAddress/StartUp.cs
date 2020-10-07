@@ -5,7 +5,7 @@ namespace DefangingAnIPAddress
 {
     class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine(@"https://leetcode.com/problems/defanging-an-ip-address/");
         }
