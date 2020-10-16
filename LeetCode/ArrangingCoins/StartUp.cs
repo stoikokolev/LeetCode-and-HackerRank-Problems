@@ -4,7 +4,7 @@ namespace ArrangingCoins
 {
     class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine(@"https://leetcode.com/problems/arranging-coins/");
         }

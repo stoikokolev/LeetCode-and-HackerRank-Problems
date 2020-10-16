@@ -6,21 +6,13 @@ namespace ActiveTraders
 {
     class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Hello World!");
         }
     }
     class Result
     {
-
-        /*
-         * Complete the 'mostActive' function below.
-         *
-         * The function is expected to return a STRING_ARRAY.
-         * The function accepts STRING_ARRAY customers as parameter.
-         */
-
         public static List<string> mostActive(List<string> customers)
         {
             var dict = new Dictionary<string,double>();
